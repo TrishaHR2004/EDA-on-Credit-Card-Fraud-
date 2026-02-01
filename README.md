@@ -1,5 +1,5 @@
 # EDA-on-Credit-Card-Fraud-
-Dataset Download link : Credit Card Fraud.csv (https://drive.google.com/file/d/1sy_bhrCrZAHCNCiTMgAKUW7JO7a0-SQm/view?usp=drive_link)
+Dataset Download link : Credit Card Fraud.csv (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
 # Task 10 — Python EDA & Outlier Detection (Credit Card Fraud Analysis)
 
 ## 📌 Project Overview
